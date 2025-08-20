@@ -24,5 +24,4 @@
          /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=s4ngmin-9&layout=compact&bg_color=180,deb7f0,00000000&title_color=000000&text_color=000000"
            /> </div> 
     </div>
-    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=s4ngmin-9&show_icons=true&theme=radical)
     
