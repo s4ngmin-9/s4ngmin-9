@@ -1,5 +1,5 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=50d336&height=180&text=Hello%20World!&animation=fadeIn&fontColor=000000&fontSize=60" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=23d750&height=180&text=Hello%20World!&animation=fadeIn&fontColor=000000&fontSize=60" />
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Welcome! </h2>  
@@ -20,8 +20,8 @@
     <div align= "center">  </div> 
     </div>
     <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=s4ngmin-9&bg_color=180,deb7f0,00000000&title_color=000000&text_color=000000"
-         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=s4ngmin-9&layout=compact&bg_color=180,deb7f0,00000000&title_color=000000&text_color=000000"
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=s4ngmin-9&bg_color=60,0a0a0a,413e3e&title_color=c6d402&text_color=c6d402"
+         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=s4ngmin-9&layout=compact&bg_color=60,0a0a0a,413e3e&title_color=c6d402&text_color=c6d402"
            /> </div> 
     </div>
     
